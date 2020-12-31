@@ -1,0 +1,17 @@
+ 14:00 GMT+8
+Variables: Son recipientes que la interprete puede enteder, estos recipientes sirven para almacenar datos y para que nosotros podamos trabajar
+con ellos.
+----------------------------------------------------------------------------------------------------------------------------------------------
+String: Es el formato en el cual se almacenan las cadenas de texto para que el interprete entienda que eso es un texto.
+----------------------------------------------------------------------------------------------------------------------------------------------
+Funciones (argumentos, 'resturn'): Las funciones son pedasos de codigos que se ejecutan con una finalidad espesifica, estas pueden contener 
+argumentos que son parametros que se le envian a la funcion para que esta pueda realizar su proseso y el return sirve para que la funcion 
+devuelva algun resultado al finalizar su ejecucion. 
+----------------------------------------------------------------------------------------------------------------------------------------------
+Declaraciones if: Son sentencias donde el interprete busca si esta condicion se cumple ejecutar esta parte del codigo si esto no se cumple
+ejecutar esta otra parte del codigo.
+----------------------------------------------------------------------------------------------------------------------------------------------
+Valores Booleanos: Tenemos dos estados que nos da la teoria de Boole, Verdadero y Falso esto tiene que ver con lo mas basico de los 
+computadores que son los transistores es decir el transistor puede estar prendido (1, Verdadero) o apagado (0, Falso) esto no sirve tanto para
+sentencias como para variables, si decimos que algo es verdadero podemos ejecutar cierta parte de un codigo y si decimos que es falso podemos
+ejecutar otra parte.
