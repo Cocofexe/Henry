@@ -1,0 +1,16 @@
+Ciclo For: Estos son ciclos que a diferencias de las sentencias if estos se ejecutan mientras su condicion sea falsa 
+el ciclo for esta compuesto de 4 partes:
+La variable: que la mayoria de las veces se la representa con i y se declara de la siguiente manera "var i = 2 (aca puede ir otra variable
+que venga de fuera de la funcion o puede ir simplemente un numero o ser 0)".
+La condicion: Esto hace que el codigo se ejecute mientras esta sea true  cuando esta sea false  este bucle termina y se declara "i < 100"
+es decir mientras que nuestra "i" sea menor que 100 este bucle se ejecuta.
+El incremento: esta es la manera en la que el bucle hace su ciclo es decir como se repite por ejemplo "i++" que lo que hace es que el codigo
+se ejecute de uno en uno hasta el 99
+El codigo: esta es la parte que se repite mientras la codicion sea true.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Ahora tenemos comparadores el primero es el And que se escribe "&&" y compara que la primera afirmacion y las segunda sean True si la primera
+es false o la segunda es false la afirmacion general es false ya que ambas deben ser true para que ejecute el codigo que tiene a continuacion.
+El segundo es Or que se escribe "||" para que esta afirmacion sea verdadera y se ejecute el codigo una de las dos que se comparan tiene que
+ser verdadera si una de las dos es verdadeera se ejecuta el codigo a continuacion.
+Y el tercero y ultimo es el Not que se escribe "!" y este transforma la afirmacion de false a true es decir que si la afirmacion es 10>1
+esta seria True porque es false.
