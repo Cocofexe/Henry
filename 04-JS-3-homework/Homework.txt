@@ -1,0 +1,2 @@
+Los arrays son cajitas como las variables pero en vez de soportar un solo dato estos soportan un conjunto de datos que se ordenan en formato
+de matris y para acceder a los datos que cada una de estas cajitas almacena, se necesita saber su posicion.
