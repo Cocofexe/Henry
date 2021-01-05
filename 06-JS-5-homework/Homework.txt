@@ -1,0 +1,4 @@
+Prototype: Es la propiedad de los objetos de heredar  todos sus metodos y propiedades del objeto padre.
+------------------------------------------------------------------------------------------------------------------------------------
+Los constructores: Son creadores de objetos que nos permiten crear objetos como si fuera una fabrica estos permiten que nosotros 
+podamos crear con un solo constructor diferentes objetos para no repertirnos y tener un codigo limpio.
