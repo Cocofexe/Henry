@@ -1,0 +1,15 @@
+Los objetos: Son arreglos como vimos anteriormente, la diferencia con los arreglos, (que son las cajitas que almacenan mucho datos con
+indice numerico) es que estos almacenan los datos por un indice de strings llamados claves y a cada clave le corresponde una valor 
+por ejemplo "nombre: "Federico"", donde nombre es la clave y Federico es el valor, ademas de almacenar datos estos pueden almacenar
+otros objetos o incluso arreglos.
+--------------------------------------------------------------------------------------------------------------------------------------
+Las Propiedades: Esta es el conjunto de clave y valor a este conjuto se lo denomina la propiedad del objeto y estas se pueden eliminar
+--------------------------------------------------------------------------------------------------------------------------------------
+Los metodos: Estos son iguales que las propiedades pero la diferencia es que en vez de tener un valor tienen un funcion y cuando se los
+llama estos devuelven un resultado.
+--------------------------------------------------------------------------------------------------------------------------------------
+Bucle for in: este es como el bucle for pero a diferencia del for normal este sirve para recorrer todos los objetos ya que al no tener
+un indice numerico se requiere de otro tipo de bucle para poder recorrer todo el objeto
+--------------------------------------------------------------------------------------------------------------------------------------
+Notacion de punto vs Notacion de corchetes: La diferencia de esto es como se llaman a los metodos y a las propiedades ya que uno usa 
+un punto y otra corchetes lo bueno de la de corchetes es que se pueden pasar variables y en la de puntos no.
